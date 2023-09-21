@@ -1,14 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this repository, please cite it using these metadata."
 authors:
 
 - family-names: "Araujo"
   given-names:  "Israel F."
   orcid: "https://orcid.org/0000-0002-0308-8701"
 
-title: "Notes on quantum"
+title: "Notes on Quantum"
 version: 0.0.1
-doi: 
 date-released: 2023-09-21
 url: "https://github.com/israelferrazaraujo/notes-on-quantum"
-
+license: Apache-2.0
